@@ -1,0 +1,4 @@
+pyautogui
+schedule
+telegram
+python-telegram-bot
